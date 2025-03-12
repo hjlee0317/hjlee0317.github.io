@@ -9,9 +9,9 @@ description: Hyo-jeong Lee's personal webpage.
 # Author Settings
 author:
   name: Hyo-jeong Lee
-  #image: 01.jpg
+  image: 01.jpg
   say-hello: Hello, I’m <strong>Hyo-jeong Lee</strong>
-  bio: Ambitious undergraduate in computer science with strong research experience in biomedical science. Highly motivated to study <strong>mathematical models of neuronal network dynamics</strong>, using theoretical neuroscience and computer science techniques.
+  bio: Ambitious undergraduate motivated to study <strong>mathematical models of neuronal network dynamics</strong>.
 
 
 #-------------------------------
