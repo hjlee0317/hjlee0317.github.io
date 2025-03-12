@@ -4,10 +4,11 @@
 
   .post-title {
     margin-bottom: 10px;
-    width: 500px;
+    margin-top: 10px;
+    width: cover;
     max-width: 100%;
-    font-size: 57px;
-    line-height: 70px;
+    font-size: 40px;
+    line-height: 45px;
   }
 
   .post__date {
@@ -18,9 +19,9 @@
     padding: 40px 0;
 
     .post-title {
-      margin: 10px 0;
-      font-size: 47px;
-      line-height: 53px;
+      margin: 10px 10px;
+      font-size: 40px;
+      line-height: 45px;
     }
   }
 }
@@ -63,10 +64,10 @@
 }
 
 .post-image {
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: $light-gray;
+    background-color: transparent;
   &:after {
     content: "";
     display: table;
@@ -97,41 +98,15 @@
 }
 
 .post__content {
-  margin-bottom: 40px;
-}
-
-.post__share {
-  display: flex;
-
-  .share__title {
-    margin-right: 10px;
-    font-size: 18px;
-    font-weight: 700;
-    letter-spacing: 0.5px;
-  }
-
-  .share__list {
-    .share__item {
-      display: inline-block;
-      margin: 0 10px;
-
-      a {
-        font-size: 18px;
-        color: $gray;
-        &:hover {
-          color: $dark;
-        }
-      }
-    }
-  }
+  margin-bottom: 20px;
 }
 
 .post__navigation {
-  display: flex;
+  display: table;
   align-items: baseline;
   margin-bottom: 80px;
-  padding-bottom: 80px;
-  border-bottom: 1px solid $light-gray;
+  padding-bottom: 1px;
+  border-bottom: 2px solid $light-gray;
 
   .prev,
   .next {
@@ -142,7 +117,7 @@
 
     .post__nav__image {
       display: block;
-      margin-bottom: 40px;
+      margin-bottom: 20px;
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
@@ -153,26 +128,27 @@
       }
       &:after {
         content: "";
-        display: table;
-        width: 100%;
-        padding-bottom: 65%;
+        display: flex;
+        width: 300px;
+        height: 100px;
+        padding-bottom: 30%;
       }
     }
 
     .post__nav__title {
       margin-bottom: 20px;
-      font-size: 27px;
-      line-height: 37px;
-      text-transform: uppercase;
+      font-size: 20px;
+      line-height: 25px;
+      text-transform: none;
       letter-spacing: 2px;
-      text-align: center;
+      text-align: left;
       
       a {
         display: inline-block;
-        max-width: 250px;
+        max-width: 300px;
         padding: 0 10px;
         vertical-align: middle;
-        white-space: nowrap;
+        white-space: pre-wrap;
         overflow: hidden;
         text-overflow: ellipsis;
         color: $dark;
@@ -194,9 +170,9 @@
   .prev__excerpt,
   .next__excerpt {
     width: 100%;
-    max-width: 400px;
+    max-width: 250px;
     margin: 0 auto;
-    text-align: center;
+    text-align: left;
   }
 
   @media only screen and (max-width: $tablet) {
@@ -222,13 +198,5 @@
         margin-bottom: 20px;
       }
     }
-  }
-}
-
-.comments {
-  margin-bottom: 80px;
-
-  @media only screen and (max-width: $mobile) {
-    margin-bottom: 40px;
   }
 }

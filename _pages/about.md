@@ -2,25 +2,45 @@
 layout: page
 title: About
 permalink: /about/
-image: 01.jpg
+image: profile.png
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+Hello, I'm **Hyo-jeong Lee**, an undergraduate in <a href='https://eecs.gist.ac.kr/' target='_blank'>Electrical Engineering and Computer Science</a> at <a href='https://www.gist.ac.kr/en/main.html' target='_blank'>GIST</a>, South Korea.
+
+
+I'm highly interested in the network level of neurons that connect the single-neuron level to the behavioral level. With my background in computer science and biomedical engineering, I want to study how we can build mathematical models of multiple neurons that interact with each other. My ultimate goal is to develop a better description to describe the concept of emergence.
 
 ***
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+<a href='https://hjlee0317.github.io/CV_Hyo-jeongLee.pdf' target='_blank'>View Full CV</a>
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+#### Education
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
-
-#### La croix you probably...
-<small>1995 - 2000</small>
-
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+**Gwangju Institute of Science and Technology**<br>
+*Mar 2022 - Present*<br>
+BS in Computer Science (GPA: 4.18/4.5)<br>
+**University of California, Berkeley**<br>
+*Jan 2025 - May 2025*<br>
+Berkeley Global Access Program<br>
+<br>
+#### Research Experience
+**Brain Machine Intelligence Lab, KAIST**<br>
+*Sep 2024 - Dec 2024*<br>
+Research Intern (Advisor: Prof. Sang Wan Lee)<br>
+**Biocomputing Lab, GIST**<br>
+*June 2024 - Aug 2024*<br>
+Research Intern (Advisor: Prof. Sung Chan Jun)<br>
+**Neurophotonics Lab, GIST**<br>
+*Dec 2022 - Feb 2024*<br>
+Research Intern (Advisor: Prof. Euiheon Chung)<br>
+<br>
+#### Skills
+**Experiment**<br>
+*In Vitro* Neuron Culture, Vibratome, Electroencephalogram(EEG), Mouse Handling, Mouse Behavior Test<br>
+**Software**<br>
+Brainwave5 (3Brain), MATLAB, EEGLAB, UCINET, Figma, LaTex<br>
+**Programming**<br>
+Python, C, R, Java<br>
+**Language**<br>
+Korean (Native), English (Fluent; TOEIC 945/990, TOEFL 104/120)<br>
