@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Hyo-jeong Lee
-logo: logo.svg # You can add own logo.
+# logo: logo.svg # You can add own logo.
 description: Hyo-jeong Lee's personal webpage.
 
 
@@ -9,15 +9,17 @@ description: Hyo-jeong Lee's personal webpage.
 # Author Settings
 author:
   name: Hyo-jeong Lee
-  image: 01.jpg
-  say-hello: Hello, I’m <strong>Hyo-jeong Lee</strong>
-  bio: Ambitious undergraduate motivated to study <strong>mathematical models of neuronal network dynamics</strong>.
+  image: profile.png
+  say-hello: <strong>Hyo-jeong Lee</strong>
+  bio: "<a href='https://eecs.gist.ac.kr/' target='_blank'>EECS</a>, <a href='https://www.gist.ac.kr/en/main.html' target='_blank'>GIST</a>, South Korea<br>Ambitious undergraduate motivated to study <strong>mathematical models of neuronal network dynamics</strong>."
 
 
 #-------------------------------
 # Contact links
 instagram: https://www.instagram.com/tiffanyhj_0317 # Add your Instagram handle
 linkedin: https://www.linkedin.com/in/hyo-jeong-lee-888713240/ # Add your linkedin handle
+github: https://github.com/hjlee0317
+email: hyojeonglee@gm.gist.ac.kr
 
 
 #-------------------------------
@@ -33,7 +35,7 @@ instagram-profile: artemsheludko_ # Add instagram username
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: G-XHCB3078H5 # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
