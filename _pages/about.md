@@ -12,7 +12,7 @@ I'm highly interested in the network level of neurons that connect the single-ne
 
 ***
 
-<a href='https://hjlee0317.github.io/CV_Hyo-jeongLee.pdf' target='_blank'>View Full CV</a>
+<a href='https://hjlee0317.github.io/cv/' target='_blank'>View Full CV</a>
 
 
 #### Education

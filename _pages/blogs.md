@@ -2,5 +2,6 @@
 layout: page
 title: Blogs
 permalink: /blogs/
-image: profile.png
+#image: profile.png
 ---
+gsfds
