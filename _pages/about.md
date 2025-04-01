@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-image: profile.png
 ---
 
 Hello, I'm **Hyo-jeong Lee**, an undergraduate in <a href='https://eecs.gist.ac.kr/' target='_blank'>Electrical Engineering and Computer Science</a> at <a href='https://www.gist.ac.kr/en/main.html' target='_blank'>GIST</a>, South Korea.
