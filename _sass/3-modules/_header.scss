@@ -24,28 +24,6 @@
   }
 }
 
-.logo {
-  position: absolute;
-  top: 50%;
-  left: 0;
-  transform: translateY(-50%);
-  
-  .logo__link {
-    font-size: 30px;
-    font-weight: 700;
-    letter-spacing: 0.5px;
-    color: $dark;
-    text-decoration: none;
-    &:hover {
-      color: $black;
-    }
-  }
-  
-  .logo__image {
-    max-height: 50px;
-  }
-}
-
 .main-nav {
   position: absolute;
   top: 50%;
@@ -75,13 +53,13 @@
       .nav__link {
         display: inline-block;
         padding: 10px 30px;
-        font-size: 14px;
+        font-size: 16px;
         font-weight: 700;
         letter-spacing: 0.5px;
-        text-transform: uppercase;
-        color: $dark;
+        text-transform: None;
+        color: $gray;
         &:hover {
-          color: $black;
+          color: $dark;
         }
       }
     }

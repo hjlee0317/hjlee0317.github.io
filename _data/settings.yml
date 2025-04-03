@@ -9,9 +9,10 @@ description: Hyo-jeong Lee's personal webpage.
 # Author Settings
 author:
   name: Hyo-jeong Lee
-  image: profile.png
+  image: profile.jpg
   say-hello: <strong>Hyo-jeong Lee</strong>
-  bio: "<a href='https://eecs.gist.ac.kr/' target='_blank'>EECS</a>, <a href='https://www.gist.ac.kr/en/main.html' target='_blank'>GIST</a>, South Korea<br>Ambitious undergraduate motivated to study <strong>mathematical models of neuronal network dynamics</strong>."
+  bio: "<a href='https://eecs.gist.ac.kr/' target='_blank'>EECS</a>, <a href='https://www.gist.ac.kr/en/main.html' target='_blank'>GIST</a>, South Korea<br><br>
+Undergraduate in computer science with interdisciplinary research experience in neuroscience and biomedical science. Focused on <strong>modeling neuronal network dynamics</strong> with multi-channel neural data."
 
 
 #-------------------------------

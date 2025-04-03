@@ -7,13 +7,11 @@ permalink: /about/
 Hello, I'm **Hyo-jeong Lee**, an undergraduate in <a href='https://eecs.gist.ac.kr/' target='_blank'>Electrical Engineering and Computer Science</a> at <a href='https://www.gist.ac.kr/en/main.html' target='_blank'>GIST</a>, South Korea.
 
 
-I'm highly interested in the network level of neurons that connect the single-neuron level to the behavioral level. With my background in computer science and biomedical engineering, I want to study how we can build mathematical models of multiple neurons that interact with each other. My ultimate goal is to develop a better description to describe the concept of emergence.
-
-***
+I'm highly interested in the network level of neurons that connect the single-neuron level to the behavioral level. With my background in computer science and biomedical engineering, I want to study how we can build mathematical models of multiple neurons that interact with each other. My ultimate goal is to develop a better description on the concept of emergence.
 
 <a href='https://hjlee0317.github.io/cv/' target='_blank'>View Full CV</a>
 
-
+***
 #### Education
 
 **Gwangju Institute of Science and Technology**<br>

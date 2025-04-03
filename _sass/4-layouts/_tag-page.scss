@@ -1,14 +1,15 @@
 .arhive-head {
-  padding: 80px 0;
+  padding: 30px 0;
   margin-bottom: 40px;
   background: #f5f5f5;
 
   .archive-title {
-    text-align: center;
+   # text-align: center;
     font-weight: normal;
+    font-size: 35px;
     
     span {
-      font-weight: 700;
+      font-weight: 600;
     }
   }
 
